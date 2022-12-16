@@ -10,23 +10,51 @@
     "importHelpers": true,
     "target": "es2015",
     "module": "esnext",
-    "lib": ["es2017", "dom"],
+    "lib": [
+      "es2017",
+      "dom"
+    ],
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@solenopsys/uimatrix-forms": ["./packages/uimatrix/forms/src/index.ts"],
-      "@solenopsys/uimatrix-icons": ["./packages/uimatrix/icons/src/index.ts"],
-      "@solenopsys/uimatrix-controls": ["./packages/uimatrix/controls/src/index.ts"],
-      "@solenopsys/uimatrix-publications": ["./packages/uimatrix/publications/src/index.ts"],
-      "@solenopsys/uimatrix-editor-content": ["./packages/uimatrix/editors/content/src/index.ts"],
-      "@solenopsys/uimatrix-layouts": ["./packages/uimatrix/layouts/src/index.ts"],
-      "@solenopsys/uimatrix-lists": ["./packages/uimatrix/lists/src/index.ts"],
-      "@solenopsys/uimatrix-modals": ["./packages/uimatrix/modals/src/index.ts"],
-      "@solenopsys/uimatrix-templates": ["./packages/uimatrix/templates/src/index.ts"],
-      "@solenopsys/uimatrix-themes": ["./packages/uimatrix/themes/src/index.ts"],
-      "@solenopsys/uimatrix-utils": ["./packages/uimatrix/utils/src/index.ts"]
+      "@solenopsys/uimatrix-controls": [
+        "./packages/uimatrix/controls/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-editor-content": [
+        "./packages/uimatrix/editors/content/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-forms": [
+        "./packages/uimatrix/forms/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-icons": [
+        "./packages/uimatrix/icons/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-layouts": [
+        "./packages/uimatrix/layouts/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-lists": [
+        "./packages/uimatrix/lists/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-modals": [
+        "./packages/uimatrix/modals/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-publications": [
+        "./packages/uimatrix/publications/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-templates": [
+        "./packages/uimatrix/templates/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-themes": [
+        "./packages/uimatrix/themes/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-utils": [
+        "./packages/uimatrix/utils/src/index.ts"
+      ]
     }
   },
-  "exclude": ["node_modules", "tmp"]
+  "exclude": [
+    "node_modules",
+    "tmp"
+  ]
 }

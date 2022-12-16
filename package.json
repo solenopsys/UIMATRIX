@@ -1,6 +1,6 @@
 {
-  "name": "soft-converged-tree-repo",
-  "version": "0.0.1",
+  "name": "UIMATRIX",
+  "version": "0.4.1",
   "license": "APACHE 2.0",
   "scripts": {
   },
@@ -51,7 +51,7 @@
     "prettier": "^2.8.1",
     "ts-jest": "29.0.3",
     "ts-node": "10.9.1",
-    "typescript": "~4.9.4"
+    "typescript": "~4.8.3"
   },
   "workspaces": [
     "packages/**"
