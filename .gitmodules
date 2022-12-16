@@ -1,0 +1,42 @@
+[submodule "packages/uimatrix/publications"]
+	path = packages/uimatrix/publications
+	url = https://github.com/solenopsys/uimatrix-publications
+[submodule "packages/uimatrix/templates"]
+	path = packages/uimatrix/templates
+	url = https://github.com/solenopsys/uimatrix-templates
+[submodule "packages/uimatrix/charts"]
+	path = packages/uimatrix/charts
+	url = https://github.com/solenopsys/uimatrix-charts
+[submodule "packages/uimatrix/controls"]
+	path = packages/uimatrix/controls
+	url = https://github.com/solenopsys/uimatrix-controls
+[submodule "packages/uimatrix/forms"]
+	path = packages/uimatrix/forms
+	url = https://github.com/solenopsys/uimatrix-forms
+[submodule "packages/uimatrix/icons"]
+	path = packages/uimatrix/icons
+	url = https://github.com/solenopsys/uimatrix-icons
+[submodule "packages/uimatrix/layouts"]
+	path = packages/uimatrix/layouts
+	url = https://github.com/solenopsys/uimatrix-layouts
+[submodule "packages/uimatrix/lists"]
+	path = packages/uimatrix/lists
+	url = https://github.com/solenopsys/uimatrix-lists
+[submodule "packages/uimatrix/modals"]
+	path = packages/uimatrix/modals
+	url = https://github.com/solenopsys/uimatrix-modals
+[submodule "packages/uimatrix/themes"]
+	path = packages/uimatrix/themes
+	url = https://github.com/solenopsys/uimatrix-themes
+[submodule "packages/uimatrix/utils"]
+	path = packages/uimatrix/utils
+	url = https://github.com/solenopsys/uimatrix-utils
+[submodule "packages/uimatrix/editors/code"]
+	path = packages/uimatrix/editors/code
+	url = https://github.com/solenopsys/uimatrix-editor-code
+[submodule "packages/uimatrix/editors/content"]
+	path = packages/uimatrix/editors/content
+	url = https://github.com/solenopsys/uimatrix-editor-content
+[submodule "packages/uimatrix/editors/electronic"]
+	path = packages/uimatrix/editors/electronic
+	url = https://github.com/solenopsys/uimatrix-editor-electronic
