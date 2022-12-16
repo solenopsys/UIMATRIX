@@ -40,3 +40,18 @@
 [submodule "packages/uimatrix/editors/electronic"]
 	path = packages/uimatrix/editors/electronic
 	url = https://github.com/solenopsys/uimatrix-editor-electronic
+[submodule "packages/libs/storage"]
+	path = packages/libs/storage
+	url = https://github.com/solenopsys/sc-fl-storage
+[submodule "packages/libs/hyperstreams"]
+	path = packages/libs/hyperstreams
+	url = https://github.com/solenopsys/sc-fl-hyperstreams
+[submodule "packages/libs/globals"]
+	path = packages/libs/globals
+	url = https://github.com/solenopsys/sc-fl-globals
+[submodule "packages/libs/dgraph"]
+	path = packages/libs/dgraph
+	url = https://github.com/solenopsys/sc-fl-dgraph
+[submodule "packages/libs/clusters"]
+	path = packages/libs/clusters
+	url = https://github.com/solenopsys/sc-fl-clusters

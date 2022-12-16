@@ -2,8 +2,7 @@
   "name": "UIMATRIX",
   "version": "0.4.1",
   "license": "APACHE 2.0",
-  "scripts": {
-  },
+  "scripts": {},
   "private": true,
   "dependencies": {
     "@angular/animations": "~15.0.4",
@@ -18,6 +17,7 @@
     "@ngxs/logger-plugin": "3.7.6",
     "@ngxs/router-plugin": "3.7.6",
     "@ngxs/store": "^3.7.6",
+    "number-generator": "^4.0.6",
     "rxjs": "~7.8.0",
     "tslib": "^2.4.1",
     "zone.js": "~0.12.0"

@@ -50,7 +50,13 @@
       ],
       "@solenopsys/uimatrix-utils": [
         "./packages/uimatrix/utils/src/index.ts"
-      ]
+      ],
+      "@solenopsys/lib-dgraph": ["./packages/libs/dgraph/src/index.ts"],
+      "@solenopsys/lib-hyperstreams": ["./packages/libs/hyperstreams/src/index.ts"],
+      "@solenopsys/lib-installer": ["./packages/libs/installer/src/index.ts"],
+      "@solenopsys/lib-storage": ["./packages/libs/storage/src/index.ts"],
+      "@solenopsys/lib-globals": ["./packages/libs/globals/src/index.ts"],
+      "@solenopsys/lib-clusters": ["./packages/libs/clusters/src/index.ts"]
     }
   },
   "exclude": [
