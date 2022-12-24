@@ -18,6 +18,24 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@solenopsys/lib-clusters": [
+        "./packages/libs/clusters/src/index.ts"
+      ],
+      "@solenopsys/lib-dgraph": [
+        "./packages/libs/dgraph/src/index.ts"
+      ],
+      "@solenopsys/lib-globals": [
+        "./packages/libs/globals/src/index.ts"
+      ],
+      "@solenopsys/lib-hyperstreams": [
+        "./packages/libs/hyperstreams/src/index.ts"
+      ],
+      "@solenopsys/lib-installer": [
+        "./packages/libs/installer/src/index.ts"
+      ],
+      "@solenopsys/lib-storage": [
+        "./packages/libs/storage/src/index.ts"
+      ],
       "@solenopsys/uimatrix-controls": [
         "./packages/uimatrix/controls/src/index.ts"
       ],
@@ -32,6 +50,9 @@
       ],
       "@solenopsys/uimatrix-layouts": [
         "./packages/uimatrix/layouts/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-navigate": [
+        "./packages/uimatrix/navigate/src/index.ts"
       ],
       "@solenopsys/uimatrix-lists": [
         "./packages/uimatrix/lists/src/index.ts"
@@ -50,13 +71,7 @@
       ],
       "@solenopsys/uimatrix-utils": [
         "./packages/uimatrix/utils/src/index.ts"
-      ],
-      "@solenopsys/lib-dgraph": ["./packages/libs/dgraph/src/index.ts"],
-      "@solenopsys/lib-hyperstreams": ["./packages/libs/hyperstreams/src/index.ts"],
-      "@solenopsys/lib-installer": ["./packages/libs/installer/src/index.ts"],
-      "@solenopsys/lib-storage": ["./packages/libs/storage/src/index.ts"],
-      "@solenopsys/lib-globals": ["./packages/libs/globals/src/index.ts"],
-      "@solenopsys/lib-clusters": ["./packages/libs/clusters/src/index.ts"]
+      ]
     }
   },
   "exclude": [
