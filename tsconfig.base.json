@@ -39,8 +39,17 @@
       "@solenopsys/uimatrix-controls": [
         "./packages/uimatrix/controls/src/index.ts"
       ],
+      "@solenopsys/uimatrix-charts": [
+        "./packages/uimatrix/charts/src/index.ts"
+      ],
       "@solenopsys/uimatrix-editor-content": [
         "./packages/uimatrix/editors/content/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-code-content": [
+        "./packages/uimatrix/editors/code/src/index.ts"
+      ],
+      "@solenopsys/uimatrix-editor-electronic": [
+        "./packages/uimatrix/editors/electronic/src/index.ts"
       ],
       "@solenopsys/uimatrix-forms": [
         "./packages/uimatrix/forms/src/index.ts"
