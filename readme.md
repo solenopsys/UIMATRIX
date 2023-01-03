@@ -1,5 +1,6 @@
-# UIMATRIX -  UI framework for HyperConverged based on MATRIX design system.
+# UIMATRIX -  UI framework for HyperConverged 
 
+UIMATRIX based on MATRIX design system.
 
 This ui framework  is specifically designed to work with HyperConverged it will not be adapted for standalone use, this will create a very deep integration with the rest of the systems and save resources on implementing standalone optimizations.
 
@@ -33,7 +34,7 @@ This ui framework  is specifically designed to work with HyperConverged it will 
 - <span style="color:red">**Alerts**</span>  - everything about alerts, status bars, pop-up alerts.
 - **Controls** - any separate elements: buttons, input fields, checkboxes, etc.
 - **Forms** - organization of forms for entering information.
-- - **Themes** - complex settings interface, including: colors, icons, sounds, images, fonts.
+- **Themes** - complex settings interface, including: colors, icons, sounds, images, fonts.
     Colors - all UI elements without exception are managed from a palette, there may be several palettes, of which the main is black-white.
     Sounds - the sets of sounds, they are needed to organize the tactile interfaces, as FUI will be actively used by smartphones, tablets and other touch-screen devices.
 
