@@ -19,7 +19,7 @@ This ui framework  is specifically designed to work with HyperConverged it will 
 
 **Work as an IDE** - content editing, code editing, 3d model editing, electronic editing.
 
-## UIMATRIX elements
+## UIMATRIX libraries
 
 - **Layouts** - layouts of individual elements on the page.
 
